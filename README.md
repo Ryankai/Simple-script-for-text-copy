@@ -1,5 +1,5 @@
 # Simple-script-for-text-copy
-This script can remove the carriage return in the text.
+This script can remove the carriage return in the text from clipboard.
 
 In my research, I always need to copy text from PDF files. In some situations, the line breaker makes thing complicated. So I wrote this scrit. It can automatically detect text copied to clipcoard and remove all carriage return.
 
